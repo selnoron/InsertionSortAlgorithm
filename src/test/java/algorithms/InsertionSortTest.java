@@ -6,7 +6,7 @@ import main.java.metrics.PerfomanceTracker;
 import org.junit.jupiter.api.Assertions;
 
 /**
- * Юнит-тесты для алгоритма сортировки вставками.
+ * Юнит тесты для алгоритма сортировки вставками.
  */
 public class InsertionSortTest {
 
