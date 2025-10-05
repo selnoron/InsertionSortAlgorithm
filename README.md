@@ -1,6 +1,6 @@
 # Insertion Sort Algorithm
 
-**Author:** Danial Sadykov  
+**Author:** Sadykov Danial 
 **Language:** Java  
 
 This project implements the **Insertion Sort** algorithm with performance tracking and testing.
