@@ -9,7 +9,6 @@ import main.java.metrics.PerfomanceTracker;
  * Лучший случай: O(n)
  * Средний случай: O(n^2)
  * Худший случай: O(n^2)
- * <p>
  * Память: O(1) (сортировка на месте)
  */
 public class InsertionSort {
