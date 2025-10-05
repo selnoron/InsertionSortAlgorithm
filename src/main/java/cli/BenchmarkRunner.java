@@ -23,7 +23,7 @@ public class BenchmarkRunner {
         String csvFilePath = "docs/performance-plots/insertion_sort_results.csv";
 
         try (FileWriter writer = new FileWriter(csvFilePath)) {
-            // Заголовок таблицы
+            //Заголовок таблицы
             writer.write("InputSize,Comparisons,Swaps,Time(ns)\n");
 
             for (int n : inputSizes) {
