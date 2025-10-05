@@ -45,7 +45,7 @@ public class PerfomanceTracker {
         comparisons = swaps = arrayAccesses = 0;
     }
 
-    // Геттеры
+    //Геттеры
     public long getComparisons() { return comparisons; }
     public long getSwaps() { return swaps; }
     public long getArrayAccesses() { return arrayAccesses; }
