@@ -15,7 +15,7 @@ public class InsertionSort {
     // PerformanceTracker — для подсчёта сравнений, обменов и обращений к массиву
     private PerfomanceTracker tracker;
 
-    // Конструктор
+    //Конструктор
     public InsertionSort(PerfomanceTracker tracker) {
         this.tracker = tracker;
     }
